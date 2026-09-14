@@ -1,3 +1,8 @@
-para ativar o Ngrok > 
+para ativar o Ngrok > .\ngrok.exe http 8000
 para ativar o uvicorn > uvicorn main:app --reload
+para criar ambiente virtual > python -m venv venv
 para ativar o nosso ambiente virtual > venv\Scripts\Activate.ps1
+
+Para criar a chave de api do Trello > https://trello.com/power-ups/admin
+
+para criar o Token do trello > https://trello.com/1/authorize?expiration=never&scope=read&response_type=token&key=SUA_API_KEY
