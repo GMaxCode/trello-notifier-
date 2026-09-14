@@ -1,0 +1,3 @@
+para ativar o Ngrok > 
+para ativar o uvicorn > uvicorn main:app --reload
+para ativar o nosso ambiente virtual > venv\Scripts\Activate.ps1
